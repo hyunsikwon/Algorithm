@@ -5,7 +5,7 @@
 ### Index
 - [입출력과 사칙연산](#입출력과-연산)
 - [스택](#스택)
-- 큐, 덱
+- [큐, 덱](#큐,-덱)
 - 문자열
 - 동적 프로그래밍
 - 수학
@@ -35,5 +35,9 @@
    - Baekjoon [#1874](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/스택/스택%20수열_%231874/스택%20수열_%231874/main.cpp) - 스택 수열
    - Baekjoon [#10828](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/스택/스택_%2310828/스택_%2310828/main.cpp) - 스택
    - Baekjoon [#10773](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/스택/제로_%2310773/제로_%2310773/main.cpp) - 제로 
+   
+### [**큐, 덱**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/큐%2C%20덱)
+  - Baekjoon [#10845](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/큐_%2310845/큐_%2310845/main.cpp) - 큐
+  - Baekjoon [#2164](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/카드2_%232164/카드2_%232164/main.cpp) - 카드2
 
 
