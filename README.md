@@ -39,5 +39,7 @@
 ### [**큐와 덱**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/큐%2C%20덱)
   - Baekjoon [#10845](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/큐_%2310845/큐_%2310845/main.cpp) - 큐
   - Baekjoon [#2164](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/카드2_%232164/카드2_%232164/main.cpp) - 카드2
+  - Baekjoon [#11866](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/조세퍼스%20문제0_%2311866/조세퍼스%20문제0_%2311866/main.cpp) - 조세퍼스 문제0
+  - Baekjoon [#1966](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/프린터%20큐_%231966/프린터%20큐_%231966/main.cpp) - 프린터 큐*
 
 
