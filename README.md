@@ -43,5 +43,7 @@
   - Baekjoon [#1966](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/프린터%20큐_%231966/프린터%20큐_%231966/main.cpp) - 프린터 큐*
   - Baekjoon [#10866](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/덱_%2310866/덱_%2310866/main.cpp) - 덱
   - Baekjoon [#1021](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/큐%2C%20덱/회전하는%20큐_%231021/회전하는%20큐_%231021/main.cpp) - 회전하는 큐
+  - Baekjoon [#5430](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/큐%2C%20덱/AC_%235430/AC_%235430) - AC*(틀림)
+ 
 
 
