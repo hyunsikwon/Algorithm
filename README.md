@@ -50,5 +50,6 @@
   - Baekjoon [#11720](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/숫자의%20합_%2311720/숫자의%20합_%2311720/main.cpp) - 숫자의 합
   - Baekjoon [#10809](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/알파벳%20찾기_%2310809/알파벳%20찾기_%2310809/main.cpp) - 알파벳 찾기
   - Baekjoon [#2675](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/문자열%20반복_%232675/문자열%20반복_%232675/main.cpp) - 문자열 반복
+  - Baekjoon [#1157](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/단어%20공부_%231157/단어%20공부_%231157/main.cpp) - 단어 공부
 
 
