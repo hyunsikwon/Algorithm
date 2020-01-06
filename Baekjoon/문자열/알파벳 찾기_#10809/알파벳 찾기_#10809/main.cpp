@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
         int asciiCode = S[j] - 0;
         
         if (a[asciiCode - 97] == -1) {
-            a[asciiCode - 97] = j
+            a[asciiCode - 97] = j;
         }
     }
 
