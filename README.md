@@ -51,5 +51,9 @@
   - Baekjoon [#10809](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/알파벳%20찾기_%2310809/알파벳%20찾기_%2310809/main.cpp) - 알파벳 찾기
   - Baekjoon [#2675](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/문자열%20반복_%232675/문자열%20반복_%232675/main.cpp) - 문자열 반복
   - Baekjoon [#1157](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/단어%20공부_%231157/단어%20공부_%231157/main.cpp) - 단어 공부
-
+  - Baekjoon [#1152](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/단어의%20개수_%231152/단어의%20개수_%231152/main.cpp) - 단어의 개수
+  - Baekjoon [#2908](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/상수_%232908/상수_%232908/main.cpp) - 상수
+  - Baekjoon [#5622](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/다이얼_%235622/다이얼_%235622/main.cpp) - 다이얼
+  - Baekjoon []() - 크로아티아 알파벳
+  - Baekjoon []() - 그룹 단어 체커
 
