@@ -8,8 +8,24 @@
 
 #include <iostream>
 
+using namespace std;
+
+
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    string num1,num2;
+    
+    cin >> num1 >> num2;
+    
+    string a = "";
+    string b = "";
+    
+    for (int i = 2; i >= 0; i--) {
+        a += num1[i];
+        b += num2[i];
+    }
+    
+    if (a > b) cout << a << '\n';
+    else cout << b << '\n';
+    
 }
