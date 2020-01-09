@@ -54,6 +54,6 @@
   - Baekjoon [#1152](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/단어의%20개수_%231152/단어의%20개수_%231152/main.cpp) - 단어의 개수
   - Baekjoon [#2908](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/상수_%232908/상수_%232908/main.cpp) - 상수
   - Baekjoon [#5622](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/다이얼_%235622/다이얼_%235622/main.cpp) - 다이얼
-  - Baekjoon []() - 크로아티아 알파벳
-  - Baekjoon []() - 그룹 단어 체커
+  - Baekjoon [#2941](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/크로아티아%20알파벳_%232941/크로아티아%20알파벳_%232941/main.cpp) - 크로아티아 알파벳
+  - Baekjoon [#1316](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/문자열/그룹%20단어%20체커_%231316/그룹%20단어%20체커_%231316/main.cpp) - 그룹 단어 체커
 
