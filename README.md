@@ -2,6 +2,8 @@
 
 제가[(HyunSikWon)](https://github.com/HyunSikWon) 직접 푼 알고리즘 문제를 저장한 repository 입니다.
 
+***Baekjoon ID: [ssikssik38](https://www.acmicpc.net/user/ssikssik38)***
+
 ### Index
 - [입출력과 사칙연산](#입출력과-연산)
 - [스택](#스택)
