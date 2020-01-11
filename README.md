@@ -63,4 +63,6 @@
  - Baekjoon [#2748](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/피보나치%20수2_%232748/피보나치%20수2_%232748/main.cpp
 ) - 피보나치 수2
  - Baekjoon [#1003](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/피보나치%20함수_%231003/피보나치%20함수_%231003/main.cpp) - 피보나치 함수*
+ - Baekjoon [#1904](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/01타일_%231904/01타일_%231904/main.cpp) - 01타일
+ - Baekjoon [#9461](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/파도반%20수열_%239461/파도반%20수열_%239461/main.cpp) - 파도반 수열
 
