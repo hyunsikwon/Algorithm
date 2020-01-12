@@ -65,4 +65,4 @@
  - Baekjoon [#1003](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/피보나치%20함수_%231003/피보나치%20함수_%231003/main.cpp) - 피보나치 함수*
  - Baekjoon [#1904](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/01타일_%231904/01타일_%231904/main.cpp) - 01타일
  - Baekjoon [#9461](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/파도반%20수열_%239461/파도반%20수열_%239461/main.cpp) - 파도반 수열
-
+- Baekjoon [#1149](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/RGB거리_%231149/RGB거리_%231149/main.cpp) - RGB거리
