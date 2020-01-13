@@ -66,3 +66,5 @@
  - Baekjoon [#1904](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/01타일_%231904/01타일_%231904/main.cpp) - 01타일
  - Baekjoon [#9461](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/파도반%20수열_%239461/파도반%20수열_%239461/main.cpp) - 파도반 수열
 - Baekjoon [#1149](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/RGB거리_%231149/RGB거리_%231149/main.cpp) - RGB거리*
+- Baekjoon [#1932](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/정수%20삼각형_%231932/정수%20삼각형_%231932/main.cpp) - 정수 삼각형
+- Baekjoon [#2579](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/계단%20오르기_%232579/계단%20오르기_%232579/main.cpp) - 계단 오르기*
