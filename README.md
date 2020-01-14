@@ -68,3 +68,6 @@
 - Baekjoon [#1149](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/RGB거리_%231149/RGB거리_%231149/main.cpp) - RGB거리*
 - Baekjoon [#1932](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/정수%20삼각형_%231932/정수%20삼각형_%231932/main.cpp) - 정수 삼각형
 - Baekjoon [#2579](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/계단%20오르기_%232579/계단%20오르기_%232579/main.cpp) - 계단 오르기*
+- Baekjoon [#1463](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/1로%20만들기_%231463/1로%20만들기_%231463/main.cpp) - 1로 만들기
+- Baekjoon [#10844](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/쉬운%20계단%20수_%2310844/쉬운%20계단%20수_%2310844/main.cpp) - 쉬운 계단 수*
+
