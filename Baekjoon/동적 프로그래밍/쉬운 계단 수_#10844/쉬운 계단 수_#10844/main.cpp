@@ -7,7 +7,6 @@
 //
 
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
@@ -24,9 +23,9 @@ int main(int argc, const char * argv[]) {
     for (int i = 2; i <= N ; i++) {
         for (int j = 0; j <= 9; j++) {
             if (j == 0) {
-                a[i][0] = a[i - 1][1];
+                a[i][0] = (a[i - 1][1])% 1000000000;
             } else if (j == 9) {
-                a[i][9] = a[i-1][8];
+                a[i][9] = (a[i-1][8]) % 1000000000;
             } else {
                 a[i][j] = (a[i-1][j-1] + a[i-1][j+1]) % 1000000000;
             }

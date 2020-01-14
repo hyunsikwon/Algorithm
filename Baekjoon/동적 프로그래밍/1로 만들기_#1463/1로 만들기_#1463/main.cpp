@@ -17,35 +17,40 @@
 
 using namespace std;
 
+int a[1000002] = {0,};
+
+int dp(int i) {
+    if (i < 4) return a[i];
+    if (a[i] > 0) return a[i];
+    
+    if((i % 3 == 0) && (i % 2 == 0)) { // case4
+        a[i] = min(1 + dp(i/3),1 + dp(i/2));
+        
+    } else if(i % 3 == 0) { // case1
+        a[i] = min(1 +dp(i/3),1 + dp(i-1));
+        
+    } else if(i % 2 == 0) { // case2
+        a[i] = min(1 + dp(i/2),1 + dp(i-1));
+        
+    } else { // case3
+        a[i] = 1 + dp(i-1);
+    }
+    
+    return a[i];
+}
+
 int main(int argc, const char * argv[]) {
     int N;
     cin >> N;
-    int a[1000002];
     
     a[1] = 0;
     a[2] = 1;
     a[3] = 1;
-//    a[4] = min(1 + a[3], 1 + a[2]);
-//    a[5] = 1 + a[4];
-//    a[6] = min(1 + a[2], 1 + a[3]);
+    //    a[4] = min(1 + a[3], 1 + a[2]);
+    //    a[5] = 1 + a[4];
+    //    a[6] = min(1 + a[2], 1 + a[3]);
     
-    for(int i = 4; i <= N; i++) {
-        if((i % 3 == 0) && (i % 2 == 0)) { // case4
-            a[i] = min(1 + a[i/3],1 + a[i/2]);
-            
-        } else if(i % 3 == 0) { // case1
-            a[i] = min(1 + a[i/3],1 + a[i-1]);
-            
-        } else if(i % 2 == 0) { // case2
-            a[i] = min(1 + a[i/2],1 + a[i-1]);
-            
-        } else { // case3
-            a[i] = 1 + a[i-1];
-        }
-        
-    }
-    
-    cout << a[N] << '\n';
+    cout << dp(N) << '\n';
     
 }
 
