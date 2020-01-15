@@ -70,4 +70,5 @@
 - Baekjoon [#2579](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/계단%20오르기_%232579/계단%20오르기_%232579/main.cpp) - 계단 오르기*
 - Baekjoon [#1463](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/1로%20만들기_%231463/1로%20만들기_%231463/main.cpp) - 1로 만들기
 - Baekjoon [#10844](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/쉬운%20계단%20수_%2310844/쉬운%20계단%20수_%2310844/main.cpp) - 쉬운 계단 수*
+- Baekjoon [#2156](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/포도주%20시식_%232156/포도주%20시식_%232156/main.cpp) - 포도주 시식*
 
