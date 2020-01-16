@@ -71,4 +71,5 @@
 - Baekjoon [#1463](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/1로%20만들기_%231463/1로%20만들기_%231463/main.cpp) - 1로 만들기
 - Baekjoon [#10844](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/쉬운%20계단%20수_%2310844/쉬운%20계단%20수_%2310844/main.cpp) - 쉬운 계단 수*
 - Baekjoon [#2156](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/동적%20프로그래밍/포도주%20시식_%232156/포도주%20시식_%232156/main.cpp) - 포도주 시식*
+- Baekjoon [#11053](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4_%2311053/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4_%2311053/main.cpp) - 가장 긴 증가하는 부분 수열
 
