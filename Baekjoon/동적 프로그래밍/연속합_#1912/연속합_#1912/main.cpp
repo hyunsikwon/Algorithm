@@ -24,7 +24,6 @@ int main(int argc, const char * argv[]) {
         a[i] = value;
     }
     
-    
     dp[0] = a[0];
     int maxValue = a[0];
     
@@ -32,7 +31,7 @@ int main(int argc, const char * argv[]) {
         if (a[i] < a[i-1] ) {
             dp[i] = dp[i-1] + a[i];
         } else {
-            dp[i] = max(max(dp[i-1] + a[i], a[i] + a[i-1]), a[i]);
+            dp[i] = max(dp[i-1] + a[i], a[i]);
         }
         if (dp[i] > maxValue) {
             maxValue = dp[i];
