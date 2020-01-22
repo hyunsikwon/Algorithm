@@ -17,7 +17,13 @@ int d[100001];  // 가방 용량
 int w[101];     // 물건의 무게
 int v[101];     // 물건의 가치
 
-void dp(){
+int main(int argc, const char * argv[]) {
+    
+    cin >> n >> k;
+    for(int i=1; i<=n; i++){
+        cin >> w[i] >> v[i];
+    }
+    
     for(int i=1; i<=n; i++){
         for(int j=k; j>=1; j--){
             if(w[i] <= j){
@@ -27,16 +33,4 @@ void dp(){
     }
     
     cout << d[k] << "\n";
-}
-
-int main(int argc, const char * argv[]) {
-    
-    cin >> n >> k;
-    for(int i=1; i<=n; i++){
-        cin >> w[i] >> v[i];
-    }
-    
-    dp();
-    
-    return 0;
 }
