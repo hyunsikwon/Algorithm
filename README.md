@@ -76,4 +76,5 @@
 - Baekjoon [#2565](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%A0%84%EA%B9%83%EC%A4%84_%232565/%EC%A0%84%EA%B9%83%EC%A4%84_%232565/main.cpp) - 전깃줄
 - Baekjoon [#9251](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/LCS_%239251/LCS_%239251/main.cpp) - LCS**
 - Baekjoon [#1912](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%97%B0%EC%86%8D%ED%95%A9_%231912/%EC%97%B0%EC%86%8D%ED%95%A9_%231912/main.cpp) - 연속합
+- Baekjoon [#12865](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD_%2312865/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD_%2312865/main.cpp) - 평범한 배낭*
 
