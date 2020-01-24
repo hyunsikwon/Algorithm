@@ -25,14 +25,14 @@ int partition(int a[], int start, int end){
     int j = start;
     int i = start - 1;
     int pivot = end;
-
+    
     for (j = start; j < end; j++) {
         if (a[j] < a[pivot]) {
             i++;
             swap(a,i,j);
         }
     }
-
+    
     swap(a, i+1, pivot);
     return i + 1; // 기준 인덱스. 이 인덱스를 기준으로 왼쪽에는 더 작은값, 오른쪽에는 더 큰 값.
 }
@@ -80,8 +80,7 @@ void merge(int a[], int start, int middle, int end) {
     }
 }
 
-
-void mergeSort(int arr[], int start, int end) {
+void mergeSort(int a[], int start, int end) {
     if (start < end) {
         int middle = (start + end) / 2;
         mergeSort(a, start, middle);
@@ -91,8 +90,42 @@ void mergeSort(int arr[], int start, int end) {
 }
 
 //MARK: - Heap Sort
+void heapSort(int heap[], int heapSize) {
+    
+    // heapify
+    for (int i = 1; i < heapSize ; i++) {
+        int child = i;
+        do {
+            int parent = (child-1)/2;
+            if (heap[child] > heap[parent] ) {
+                swap(heap,child,parent);
+            }
+            child = parent;
+        } while (child != 0);
+    }
+    
+    
+    for (int i = heapSize-1; i >= 0; i--) {
+        swap(heap,i, 0);
+        int root = 0;
+        int c = 1;
+        do {
+            c= 2 * root + 1;
+            if (c < i - 1 && heap[c+1] > heap[c]) {
+                c++; // c < i 이면 c++했을때 c = i가 될 수 있다.
+            }
 
+            if (c < i && heap[c] > heap[root]) {
+                swap(heap,c,root);
+            }
 
+            root = c;
+        } while (c < i);
+
+    }
+
+    
+}
 
 //MARK: - Main
 int main(int argc, const char * argv[]) {
@@ -108,8 +141,10 @@ int main(int argc, const char * argv[]) {
     //    quickSort(a, 0, N - 1);
     
     //Merge Sort
-    mergeSort(a, 0, N - 1);
+    //    mergeSort(a, 0, N - 1);
     
+    //Heap Sort
+    heapSort(a,N);
     
     //출력
     for (int i = 0; i < N; i++) {
