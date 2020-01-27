@@ -80,3 +80,5 @@
 ### [**정렬**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/정렬)
   - Baekjoon [#2750](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/main.cpp) - 수 정렬하기
   - Baekjoon [#2751](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02_%232751/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02_%232751/main.cpp) - 수 정렬하기 2
+  - Baekjoon [#10989](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%2310989/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%2310989/main.cpp) - 수 정렬하기 3
+  - Baekjoon [#2108](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%ED%86%B5%EA%B3%84%ED%95%99_%232108/%ED%86%B5%EA%B3%84%ED%95%99_%232108/main.cpp) - 통계학
