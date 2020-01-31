@@ -82,6 +82,8 @@
 - Baekjoon [#2609](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%232609/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%232609/main.cpp) - 최대공약수와 최소공배수
 - Baekjoon [#1934](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%231934/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%231934/main.cpp) - 최소공배수
 - Baekjoon [#9613](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/GCD%20%ED%95%A9_%239613/GCD%20%ED%95%A9_%239613/main.cpp) - GCD 합
+- Baekjoon [#2745](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/수학/진법%20변환_%232745/진법%20변환_%232745/main.cpp) - 진법 변환*
+- Baekjoon [#11005](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/수학/진법%20변환2_%2311005/진법%20변환2_%2311005/main.cpp) - 진법 변환2*
 
 ### [**정렬**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/정렬)
   - Baekjoon [#2750](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/main.cpp) - 수 정렬하기
