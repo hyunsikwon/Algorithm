@@ -10,7 +10,7 @@
 - [큐와 덱](#큐와-덱)
 - [문자열](#문자열)
 - [동적 프로그래밍](#동적-프로그래밍)
-- 수학
+- [수학](#수학)
 - [정렬](#정렬)
 - 그래프
 - 트리
@@ -77,6 +77,12 @@
 - Baekjoon [#9251](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/LCS_%239251/LCS_%239251/main.cpp) - LCS**
 - Baekjoon [#1912](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%97%B0%EC%86%8D%ED%95%A9_%231912/%EC%97%B0%EC%86%8D%ED%95%A9_%231912/main.cpp) - 연속합
 - Baekjoon [#12865](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD_%2312865/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD_%2312865/main.cpp) - 평범한 배낭*
+
+### [**수학**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%EC%88%98%ED%95%99)
+- Baekjoon [#2609](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%232609/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%232609/main.cpp) - 최대공약수와 최소공배수
+- Baekjoon [#1934](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%231934/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98_%231934/main.cpp) - 최소공배수
+- Baekjoon [#9613](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/GCD%20%ED%95%A9_%239613/GCD%20%ED%95%A9_%239613/main.cpp) - GCD 합
+
 ### [**정렬**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/정렬)
   - Baekjoon [#2750](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/main.cpp) - 수 정렬하기
   - Baekjoon [#2751](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02_%232751/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02_%232751/main.cpp) - 수 정렬하기 2
