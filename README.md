@@ -84,6 +84,9 @@
 - Baekjoon [#9613](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/GCD%20%ED%95%A9_%239613/GCD%20%ED%95%A9_%239613/main.cpp) - GCD 합
 - Baekjoon [#2745](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/수학/진법%20변환_%232745/진법%20변환_%232745/main.cpp) - 진법 변환*
 - Baekjoon [#11005](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/수학/진법%20변환2_%2311005/진법%20변환2_%2311005/main.cpp) - 진법 변환2*
+- Baekjoon [#1373](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/2%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98_%231373/2%EC%A7%84%EC%88%98%208%EC%A7%84%EC%88%98_%231373/main.cpp) - 2진수 8진수
+- Baekjoon [#1212](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98_%231212/8%EC%A7%84%EC%88%98%202%EC%A7%84%EC%88%98_%231212/main.cpp) - 8진수 2진수
+- Baekjoon [#2089](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/-2%EC%A7%84%EC%88%98_%232089/-2%EC%A7%84%EC%88%98_%232089/main.cpp) - -2진수*
 
 ### [**정렬**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/정렬)
   - Baekjoon [#2750](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/main.cpp) - 수 정렬하기
