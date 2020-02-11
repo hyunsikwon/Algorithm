@@ -92,6 +92,8 @@
 - Baekjoon [#1978](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0_%231978/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0_%231978/main.cpp) - 소수 찾기
 - Baekjoon [#6588](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1_%236588/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1_%236588/main.cpp) - 골드바흐의 추측**
 - Baekjoon [#11653](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4_%2311653/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4_%2311653/main.cpp) - 소인수분해*
+- Baekjoon [#10872](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC_%2310872/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC_%2310872/main.cpp) - 팩토리얼
+- Baekjoon [#1676](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%88%98%ED%95%99/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98_%231676/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98_%231676/main.cpp) - 팩토리얼 0의 개수*
 
 ### [**정렬**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/정렬)
   - Baekjoon [#2750](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%A0%95%EB%A0%AC/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_%232750/main.cpp) - 수 정렬하기
