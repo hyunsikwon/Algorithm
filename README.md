@@ -121,4 +121,4 @@
  - Baekjoon [#1707](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84_%231707/%EC%9D%B4%EB%B6%84%20%EA%B7%B8%EB%9E%98%ED%94%84_%231707/main.cpp) - 이분 그래프
  
  ### [**트리**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%ED%8A%B8%EB%A6%AC)
- - Baekjoon [#11725](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/main.cpp) - 트리의 부모 찾기
+ - Baekjoon [#11725](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_%2311725/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_%2311725/main.cpp) - 트리의 부모 찾기
