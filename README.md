@@ -123,3 +123,5 @@
  ### [**트리**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%ED%8A%B8%EB%A6%AC)
  - Baekjoon [#11725](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_%2311725/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_%2311725/main.cpp) - 트리의 부모 찾기
  - Baekjoon [#1167](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/main.cpp) - 트리의 지름
+ - Baekjoon [#1967](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231967/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231967/main.cpp) - 트리의 지름
+ - Baekjoon [#1991](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C_%231991/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C_%231991/main.cpp) - 트리 순회
