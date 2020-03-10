@@ -14,7 +14,7 @@
 - [정렬](#정렬)
 - [그래프](#그래프)
 - [트리](#트리)
-- 그리디
+- [그리디](#그리디)
 - 분할 정복
 - 부르트 포스
 
@@ -125,3 +125,7 @@
  - Baekjoon [#1167](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231167/main.cpp) - 트리의 지름
  - Baekjoon [#1967](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231967/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84_%231967/main.cpp) - 트리의 지름
  - Baekjoon [#1991](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%ED%8A%B8%EB%A6%AC/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C_%231991/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C_%231991/main.cpp) - 트리 순회
+ 
+### [**그리디**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94)
+ - Baekjoon [#11047](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8F%99%EC%A0%84%200_%2311047/%EB%8F%99%EC%A0%84%200_%2311047/main.cpp) - 동전 0
+ - Baekjoon [#1931](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95_%231931/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95_%231931/main.cpp) - 회의실배정
