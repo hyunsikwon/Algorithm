@@ -129,3 +129,5 @@
 ### [**그리디**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94)
  - Baekjoon [#11047](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8F%99%EC%A0%84%200_%2311047/%EB%8F%99%EC%A0%84%200_%2311047/main.cpp) - 동전 0
  - Baekjoon [#1931](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95_%231931/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95_%231931/main.cpp) - 회의실배정
+ - Baekjoon [#11399](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/그리디/ATM_%2311399/ATM_%2311399/main.cpp) - ATM 
+ - Baekjoon [#1541](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/그리디/잃어버린%20괄호_%231541/잃어버린%20괄호_%231541/main.cpp) - 잃어버린 괄호*
