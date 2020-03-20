@@ -134,4 +134,5 @@
  - Baekjoon [#1744](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%98%20%EB%AC%B6%EA%B8%B0_%231744/%EC%88%98%20%EB%AC%B6%EA%B8%B0_%231744/main.cpp) - 수 묶기
  - Baekjoon [#2875](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4_%232875/%EB%8C%80%ED%9A%8C%20or%20%EC%9D%B8%ED%84%B4_%232875/main.cpp) - 대회 or 인턴
 - Baekjoon [#10610](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/30_%2310610/30_%2310610/main.cpp) - 30
-- Baekjoon [#1783](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/main.cpp) - 병든 나이트
+- Baekjoon [#1783](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/main.cpp) - 병든 나이트*
+- Baekjoon [#1080](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%96%89%EB%A0%AC_%231080/%ED%96%89%EB%A0%AC_%231080/main.cpp) - 행렬
