@@ -15,7 +15,7 @@
 - [그래프](#그래프)
 - [트리](#트리)
 - [그리디](#그리디)
-- 분할 정복
+- [분할 정복](#분할-정복)
 - 부르트 포스
 
 
@@ -136,3 +136,8 @@
 - Baekjoon [#10610](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/30_%2310610/30_%2310610/main.cpp) - 30
 - Baekjoon [#1783](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/%EB%B3%91%EB%93%A0%20%EB%82%98%EC%9D%B4%ED%8A%B8_%231783/main.cpp) - 병든 나이트*
 - Baekjoon [#1080](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%96%89%EB%A0%AC_%231080/%ED%96%89%EB%A0%AC_%231080/main.cpp) - 행렬
+
+### [**분할 정복**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5)
+- Baekjoon [#2630](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0_%232630/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0_%232630/main.cpp) - 색종이 만들기
+- Baekjoon [#1992](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%231992/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%231992/main.cpp) - 쿼드트리
+
