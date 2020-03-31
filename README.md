@@ -16,6 +16,7 @@
 - [트리](#트리)
 - [그리디](#그리디)
 - [분할 정복](#분할-정복)
+- [이분 탐색](#이분-탐색)
 - 부르트 포스
 
 
@@ -142,4 +143,8 @@
 - Baekjoon [#1992](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%231992/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC_%231992/main.cpp) - 쿼드트리
 - Baekjoon [#1780](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98_%231780/%EC%A2%85%EC%9D%B4%EC%9D%98%20%EA%B0%9C%EC%88%98_%231780/main.cpp) - 종이의 개수
 - Baekjoon [#1629](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EA%B3%B1%EC%85%88_%231629/%EA%B3%B1%EC%85%88_%231629/main.cpp) - 곱셈**
+
+### [**이분 탐색**](https://github.com/HyunSikWon/Algorithm/tree/master/Baekjoon/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)
+ - Baekjoon [#1920](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/%EC%88%98%20%EC%B0%BE%EA%B8%B0_%231920/%EC%88%98%20%EC%B0%BE%EA%B8%B0_%231920/main.cpp) - 수 찾기
+ - Baekjoon [#10816](https://github.com/HyunSikWon/Algorithm/blob/master/Baekjoon/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2_%2310816/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2_%2310816/main.cpp) - 숫자 카드2
 
