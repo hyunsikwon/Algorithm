@@ -11,16 +11,5 @@
 
 using namespace std;
 
-int K,N;
-int A[10001];
-int sum;
-
-int main(int argc, const char * argv[]) {
-    cin >> K >> N;
-    
-    for (int i = 0; i < K; i++) {
-        int a;
-        cin >> a;
-    }
-
+int main(void) {
 }
