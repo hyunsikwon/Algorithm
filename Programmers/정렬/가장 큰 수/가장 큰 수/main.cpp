@@ -35,19 +35,3 @@ string solution(vector<int> numbers) {
     if (answer[0] == '0') return answer = "0";
     return answer;
 }
-
-int main(int argc, const char * argv[]) {
-//    vector<int> numbers = {6, 10, 2};
-//      vector<int> numbers = {1, 9, 3, 7};
-    vector<int> numbers = {3, 30, 34, 5, 9};
-    
-    string a = "10";
-    string b = "2";
-    if (a > b) {
-        cout << "Hello";
-    } else {
-        cout << "Hi";
-    }
-    
-    cout << solution(numbers);
-}
