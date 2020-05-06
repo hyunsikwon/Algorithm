@@ -11,21 +11,6 @@
 #include <vector>
 
 using namespace std;
-bool visited[1<<8];
-
-void dfs(int bannedIdx,int N,int bits,const vector<vector<int>>&v)
-{
-    if(bannedIdx==N)
-    {
-        visited[bits]=true;
-        return ;
-    }
-    for(auto next:v[bannedIdx])
-    {
-        if(bits&(1<<next))continue;
-        dfs(bannedIdx+1,N,bits|(1<<next),v);
-    }
-}
 
 int solution(vector<string> user_id, vector<string> banned_id) {
     int answer = 0;
@@ -58,12 +43,6 @@ int solution(vector<string> user_id, vector<string> banned_id) {
         }
         canMakeStr.push_back(tempV);
         tempV.clear();
-    }
-
-    dfs(0,banned_id.size(),0,canMakeStr);
-    
-    for(int i=0;i<(1<<8);i++) {
-        if(visited[i]) answer++;
     }
     
     return answer;
