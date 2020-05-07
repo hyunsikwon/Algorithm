@@ -9,33 +9,34 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <set>
 
 using namespace std;
 
 int solution(vector<string> user_id, vector<string> banned_id) {
     int answer = 0;
     vector<vector<int>> canMakeStr;
-
+    
     for (int i = 0; i < banned_id.size(); i++) {
-        string banned = banned_id[i];
+        string tempBannedId = banned_id[i];
         vector<int> starLocation;
         
         // banned_id에서 *의 위치
-        for (int j = 0; j < banned.length(); j++) {
-            if (banned[j] == '*') {
+        for (int j = 0; j < tempBannedId.length(); j++) {
+            if (tempBannedId[j] == '*') {
                 starLocation.push_back(j);
             }
         }
         
         vector<int> tempV;
         for (int k = 0; k < user_id.size(); k++) {
-            if (banned.length() == user_id[k].length()) {
+            if (tempBannedId.length() == user_id[k].length()) {
                 
                 for (int t = 0; t < starLocation.size(); t++) {
-                    banned[starLocation[t]] = user_id[k][starLocation[t]];
+                    tempBannedId[starLocation[t]] = user_id[k][starLocation[t]];
                 }
                 
-                if (banned == user_id[k]) {
+                if (tempBannedId == user_id[k]) {
                     tempV.push_back(k);
                 }
                 
@@ -45,10 +46,9 @@ int solution(vector<string> user_id, vector<string> banned_id) {
         tempV.clear();
     }
     
+    
     return answer;
 }
-
-
 
 int main(int argc, const char * argv[]) {
     vector<string> user_id = {"frodo", "fradi", "crodo", "abc123", "frodoc"};
