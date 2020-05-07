@@ -17,25 +17,25 @@ int solution(vector<string> user_id, vector<string> banned_id) {
     vector<vector<int>> canMakeStr;
 
     for (int i = 0; i < banned_id.size(); i++) {
-        string tempBannedId = banned_id[i];
+        string banned = banned_id[i];
         vector<int> starLocation;
         
         // banned_id에서 *의 위치
-        for (int j = 0; j < tempBannedId.length(); j++) {
-            if (tempBannedId[j] == '*') {
+        for (int j = 0; j < banned.length(); j++) {
+            if (banned[j] == '*') {
                 starLocation.push_back(j);
             }
         }
         
         vector<int> tempV;
         for (int k = 0; k < user_id.size(); k++) {
-            if (tempBannedId.length() == user_id[k].length()) {
+            if (banned.length() == user_id[k].length()) {
                 
                 for (int t = 0; t < starLocation.size(); t++) {
-                    tempBannedId[starLocation[t]] = user_id[k][starLocation[t]];
+                    banned[starLocation[t]] = user_id[k][starLocation[t]];
                 }
                 
-                if (tempBannedId == user_id[k]) {
+                if (banned == user_id[k]) {
                     tempV.push_back(k);
                 }
                 
