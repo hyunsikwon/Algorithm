@@ -11,7 +11,7 @@ import Foundation
 let land = [[1, 4, 8, 10], [5, 5, 5, 5], [10, 10, 10, 10], [10, 10, 10, 20]]
 let height = 3
 print(solution(land,height))
-å
+
 func solution(_ land:[[Int]], _ height:Int) -> Int {
     var answer = 0
 
