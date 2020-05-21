@@ -8,6 +8,7 @@
 
 import Foundation
 
+// INPUT
 let lines = [
 "2016-09-15 20:59:57.421 0.351s",
 "2016-09-15 20:59:58.233 1.181s",
@@ -20,32 +21,58 @@ let lines = [
 "2016-09-15 21:00:00.966 0.381s",
 "2016-09-15 21:00:02.066 2.62s"
 ]
+// OUTPUT: 7
 print(solution(lines))
 
 func solution(_ lines:[String]) -> Int {
     
-    var endTime = lines
-    var proccessingTime = lines
+    var timeLogs = [(start: Date, end: Date)]()
+    var timeStamps = [Date]()
     
-    for i in 0..<endTime.count {
-        for _ in 0..<11 {
-            endTime[i].removeFirst()
-        }
-        for _ in 0..<7 {
-            endTime[i].removeLast()
-        }
-    }
-    for i in 0..<proccessingTime.count {
-        for _ in 0..<24 {
-            proccessingTime[i].removeFirst()
-        }
-        proccessingTime[i].removeLast()
-    }
+    getTime(lines, &timeLogs, &timeStamps)
     
-    print(endTime)
-    print(proccessingTime)
-    
-
-    return 0
+    return getMax(timeLogs, timeStamps)
 }
 
+func getTime(_ lines: [String],
+             _ timelogs: inout [(start: Date, end: Date)],
+             _ timeStamps: inout [Date] )
+{
+    let formatter = DateFormatter()
+    formatter.dateFormat = "yyy-MM-dd HH:mm:ss.SSS"
+    
+    lines.forEach { log in
+        let logList = log.split(separator: " ")
+        let day = logList[0]
+        let time = logList[1]
+        
+        if let endDate = formatter.date(from: "\(day) \(time)"),
+            let proccessTime = Double(logList[2].dropLast()){
+            let startDate = endDate.addingTimeInterval(-proccessTime + 0.001)
+            
+            timelogs.append((startDate,endDate))
+            timeStamps.append(startDate)
+            timeStamps.append(endDate)
+        }
+    }
+}
+
+func getMax(_ timeLogs: [(start: Date, end: Date)], _ timeStamp: [Date]) -> Int {
+    var max = 0
+    
+    for i in 0..<timeStamp.count { // 시작 시간, 종료 시간
+        var count = 0
+        for j in 0..<timeLogs.count
+            where timeLogs[j].start <= timeStamp[i].addingTimeInterval(0.999) && timeLogs[j].end >= timeStamp[i]
+            {
+                count += 1
+            }
+        
+        if count > max {
+            max = count
+        }
+        
+    }
+    
+    return max
+}
