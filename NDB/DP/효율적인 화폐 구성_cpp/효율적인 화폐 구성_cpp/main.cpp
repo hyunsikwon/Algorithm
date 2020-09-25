@@ -8,19 +8,6 @@
 #include <iostream>
 
 using namespace std;
-
-int d[10001] = {0,};
-
-int dp(int n) {
-    
-    if (d[n] != -1) {
-        return d[n];
-    }
-    
-    
-    
-    return 0;
-}
  
 int main(int argc, const char * argv[]) {
     int N, M;
