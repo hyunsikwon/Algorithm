@@ -47,6 +47,7 @@ int solution(vector<int> priorities, int location) {
                 }
             }
             answer++;
+            values.pop();
             if (front == location) {
                 break;
             }
