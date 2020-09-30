@@ -31,14 +31,12 @@ int main(int argc, const char * argv[]) {
                     continue;
                 }
                 
-                if (arr[j] + arr[i-j] < arr[i]) {
-                    arr[i] = arr[j] + arr[i-j];
-                }
+                arr[i] = min(arr[j], arr[j] + arr[i-j]);
                 
             }
             
         }
-
+        
     }
     
     for (int i = 1; i <= M; i++) {
@@ -47,5 +45,5 @@ int main(int argc, const char * argv[]) {
     
     
     cout << arr[M];
-
+    
 }
