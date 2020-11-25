@@ -126,7 +126,7 @@ func solution(_ word:String, _ pages:[String]) -> Int {
     for i in 0..<results.count {
         let links = results[i].links // 자신이 참조하는 웹 링크
         for j in 0..<results.count {
-            guard i != j else {continue }
+            guard i != j else { continue }
             
             if links.contains(results[j].url) {
                 let v = Double(results[i].defaultValue)/Double(results[i].links.count)
