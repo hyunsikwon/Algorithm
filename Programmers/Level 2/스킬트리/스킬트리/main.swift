@@ -8,39 +8,39 @@
 
 import Foundation
 
-var skill: String = "CBD"
-var skill_trees: [String] = ["BACDE", "CBADF", "AECB", "BDA"]
-print(solution(skill, skill_trees))
-
-func solution(_ skill:String, _ skill_trees:[String]) -> Int {
-    var tempArr = [String]()
+func solution(_ skill: String, _ skill_trees: [String]) -> Int {
     var answer = 0
+    var tempArr = [String]()
     
-    for element in skill_trees {
-        var tempString: String = ""
-        for char in element {
+    for skill_tree in skill_trees {
+        var tempStr = ""
+        for char in skill_tree {
             if skill.contains(char) {
-                tempString += String(char)
+                tempStr += char.description
+            }
+        }
+        tempArr.append(tempStr)
+    }
+    
+    for s in skill {
+        for i in 0..<tempArr.count {
+            if !tempArr[i].contains(s) {
+                tempArr[i] = tempArr[i] + s.description
             }
         }
         
-        tempArr.append(tempString)
     }
     
-    for char in skill {
-        for i in 0..<tempArr.count {
-            if !tempArr[i].contains(char) {
-                tempArr[i] += String(char)
-            }
+    for skill_tree in tempArr {
+        if skill_tree == skill {
+            answer += 1
         }
     }
     
-    for a in tempArr {
-        if a == skill {
-            answer+=1
-        }
-    }
     return answer
 }
 
-
+let skill_trees = ["BACDE", "CBADF", "AECB", "BDA"]
+let skill = "CBD"
+print(solution(skill, skill_trees))
+print(2)
