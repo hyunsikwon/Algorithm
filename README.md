@@ -1,5 +1,5 @@
 
-### [(HyunSikWon)](https://github.com/HyunSikWon)이 푼 알고리즘 문제를 저장한 repository.
+### 알고리즘 문제를 저장한 repository.
 
 - 문제 출처
   - 백준
